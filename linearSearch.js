@@ -1,8 +1,10 @@
-//linear search
-const N = 10000;
+//linear search O(N)
+const N = 1000000;
 var unsortedArray = [];
 var sortedArray = [];
 const key = 4676;
+
+//used for performance
 const {
     performance
 } = require('perf_hooks');
