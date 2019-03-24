@@ -3,7 +3,7 @@
 // Just uncomment them.
 // Finds the connections from pairs of numbers in the numberPairs array and 
 // displays the connections 
-const N = 20;
+const N = 100;
 var numberPairs = [];
 var storeArray = [];
 var str = ' ';
