@@ -1,5 +1,7 @@
 //selection sort an unsorted array O(n^2) - an exchange sort
-// not really much use practically but important to know.
+// NB: selection sort has the same time complexity as bubble sort but is 
+//generally much quicker. Technically it is O(n^2/2) but the constant is
+// ignored
 const N = 100;
 var unsortedArray = [];
 const key = 465676;
