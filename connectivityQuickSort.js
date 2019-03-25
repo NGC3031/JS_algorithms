@@ -11,7 +11,7 @@ var str = ' ';
 for (var i = 0; i < N; i++) {
     numberPairs[i] = Math.floor(Math.random() * N);
 }
-//console.log(numberPairs.toString());
+//c
 
 //create storage array
 for (var i = 0; i < N; i++) {
