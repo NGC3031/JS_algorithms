@@ -1,4 +1,4 @@
-//selection sort an unsorted array O(n^2) - an exchange sort
+//selection sort an unsorted array O(n^2) - a selection sort
 // NB: selection sort has the same time complexity as bubble sort but is 
 //generally much quicker. Technically it is O(n^2/2) but the constant is
 // ignored
